@@ -34,3 +34,5 @@ LVGL UI     / V5 Boards / <machine> / update.cbd + assets
 <img align="right" width=175 src="marlin-250.png" />
 
 Marlin documentation: [marlinfw.org](https://marlinfw.org/) – Marlin is licensed under the GPL v3.
+
+Contributors: see [CONTRIBUTORS.md](CONTRIBUTORS.md)
